@@ -1,4 +1,4 @@
-package list_day.src.list_day.main;
+package javal_list_days;
 
 /**
  * Hello world!
@@ -15,4 +15,3 @@ public final class App {
         System.out.println("Hello World!");
     }
 }
-

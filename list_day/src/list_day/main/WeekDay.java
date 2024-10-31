@@ -1,4 +1,4 @@
-package javal_list_day;
+package javal_list_days;
 
 import java.util.ArrayList;
 import java.util.Collections;

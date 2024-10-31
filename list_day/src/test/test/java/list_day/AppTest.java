@@ -1,5 +1,17 @@
-package list_day.src.test.test.java.list_day;
+package javal_list_day;
 
-public class AppTest {
-    
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import org.junit.jupiter.api.Test;
+
+/**
+ * Unit test for simple App.
+ */
+class AppTest {
+    /**
+     * Rigorous Test.
+     */
+    @Test
+    void testApp() {
+        assertEquals(1, 1);
+    }
 }
